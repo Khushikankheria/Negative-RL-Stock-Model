@@ -5,10 +5,10 @@ In the stock market, high rewards often come with high risks. This project shift
 
 ### 📚 Features
 
-✅ Reinforcement learning using PPO (Proximal Policy Optimization)
-✅ Negative reward shaping to penalize losses and reduce risk exposure
-✅ Training environment designed for risk minimization, not profit maximization
-✅ Realistic stock market simulation using historical data
+✅ Reinforcement learning using PPO (Proximal Policy Optimization) <br>
+✅ Negative reward shaping to penalize losses and reduce risk exposure <br>
+✅ Training environment designed for risk minimization, not profit maximization <br>
+✅ Realistic stock market simulation using historical data <br>
 ✅ Visual insights into agent decisions and trading outcomes
 
 ### 🏗️ Model Architecture & Workflow
